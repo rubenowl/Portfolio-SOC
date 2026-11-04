@@ -1,3 +1,7 @@
+<img width="423" height="178" alt="practica1-campos" src="https://github.com/user-attachments/assets/28fcff33-039d-41a8-8de9-78a620c08b2d" />
+<img width="1250" height="236" alt="practica2-eventos" src="https://github.com/user-attachments/assets/ceb66c58-5fdf-41a9-bd87-087309958145" />
+<img width="612" height="244" alt="practica2-campos" src="https://github.com/user-attachments/assets/8fd4682f-605b-4dc7-86fe-b76160b0875b" />
+<img width="1172" height="655" alt="practica1-eventos" src="https://github.com/user-attachments/assets/58049241-c0d9-4f7e-a473-a043c62f2875" />
 # Detección de actividad sospechosa en Windows con Wazuh
 
 > **Prácticas en laboratorio propio.** Las acciones "maliciosas" las provoqué yo mismo en una máquina virtual aislada para comprobar cómo se detectan desde un SIEM. Las capturas son reales de mi laboratorio.
